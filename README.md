@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carlos Morales Climent
 
-**Senior Web3 Engineer | Solidity Developer | Infrastructure Architect | Former CTO**
+**Senior Web3 Engineer | Solidity Developer | Infrastructure Architect | CTO**
 
 🌍 Based in New York City | Open to Remote | [LinkedIn](https://www.linkedin.com/in/carlosmorales) • [GitHub](https://github.com/cmorales) • [Twitter](https://twitter.com/cmoralescliment)
 
@@ -22,7 +22,7 @@ I'm a builder at heart — 10+ years of engineering experience, 3x CTO, and now 
 ### 🛠️ Skills
 
 - **Languages:** Solidity, TypeScript, PHP, JS, Node.js
-- **Frontend:** React, Tailwind, Next.js, AngularJS
+- **Frontend:** React, Next.js, AngularJS
 - **Backend:** Laravel, Express, Redis, REST APIs, WebSockets
 - **Blockchain/Web3:** Ethereum, Solana, BSC, Avalanche, Ethers.js, MetaMask
 - **Infra:** AWS, Docker, CI/CD, Validator Ops, High Availability Systems
@@ -65,7 +65,4 @@ I'm a builder at heart — 10+ years of engineering experience, 3x CTO, and now 
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlosmorales)
 - 🧑‍💻 [GitHub](https://github.com/cmorales)
 
----
-
-> 🔍 Currently open to opportunities in Web3, protocol development, validator networks, and crypto infra engineering. Let’s build.
 
