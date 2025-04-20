@@ -2,7 +2,7 @@
 
 **Senior Web3 Engineer | Solidity Developer | Infrastructure Architect | CTO**
 
-🌍 Based in New York City | Open to Remote | [LinkedIn](https://www.linkedin.com/in/carlosmorales) • [GitHub](https://github.com/cmorales) • [Twitter](https://twitter.com/cmoralescliment)
+🌍 Based in New York City | Open to Remote | [LinkedIn](https://www.linkedin.com/in/carlosmorales) • [GitHub](https://github.com/cmorales) 
 
 ---
 
